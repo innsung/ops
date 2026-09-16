@@ -1,0 +1,17 @@
+﻿node_modules/
+**/node_modules/
+dist/
+build/
+.vite/
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+*.p12
+.git-team-history-backup/
+.DS_Store
+Thumbs.db
